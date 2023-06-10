@@ -13,7 +13,7 @@ Este é um pequeno programa Java que recebe uma string do usuário e imprime a m
 
 ## Funcionamento do programa
 
-O programa usa a classe `Scanner` para receber uma string digitada pelo usuário. Em seguida, ele itera sobre a string original, adicionando cada caractere em ordem inversa à variável `invertida`. Finalmente, a string invertida é impressa na tela.
+O programa usa a classe `Scanner` para receber uma string digitada pelo usuário. Em seguida, ele itera sobre a string original, adicionando cada caractere em ordem inversa à variável `invertida` Finalmente, a string invertida é impressa na tela.
 
 ## Limitações
 
